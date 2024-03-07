@@ -11,4 +11,5 @@
   font-size: 15px;
   font-family: 'Alata', sans-serif;
   --ff-secondary: 'Josefin Sans', sans-serif;
+  color: var(--clr-dark-gray);
 }
